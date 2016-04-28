@@ -4230,7 +4230,7 @@ input[type="checkbox"].fieldItem:checked + label .togLabelOff {
 }
 
 #ov1 .server-connect-modal .message-bar > div {
-  background-color: red;
+  background-color: #C62D2D;
   padding: 8px 10px;
   line-height: 2.2;
   display: inline-block;
@@ -4262,7 +4262,7 @@ input[type="checkbox"].fieldItem:checked + label .togLabelOff {
   content: '';
   position: absolute;
   width: 10px;
-  background-color: red;
+  background-color: #C62D2D;
   top: 0;
   left: 0;
   bottom: 0;
